@@ -1,0 +1,326 @@
+header {
+    width: 1510px;
+    height: 75px;
+    background-color: black;
+    display: flex;
+    margin: 15px;
+}
+
+.header-logo {
+    width: 183.1px;
+    height: 74.85px;
+    margin-left: 115.28px;
+    display: flex;
+    align-items: center;
+}
+
+.ax {
+    width: 51.81px;
+    height: 30.69px;
+}
+
+.it {
+    width: 32.17px;
+    height: 30.69px;
+}
+
+.header-menu {
+    display: flex;
+    align-items: center;
+    margin: 1px 0 1px 471.62px;
+}
+
+.header-menu-botton {
+    width: 113.8px;
+    height: 75px;
+    color: white;
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+.banner-main {
+    width: 1510px;
+    height: 140px;
+    background-color: #F8EFEF;
+    display: flex;
+    margin: 15px;
+}
+
+.banner-info {
+    margin: 2px 0 18px 170px;
+}
+
+.banner-title {
+    width: 470px;
+    height: 60px;
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 24px;
+    color: #333333;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.banner-text {
+    width: 470px;
+    height: 42px;
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 18px;
+    color: #86878B;
+    margin-top: 18px;
+}
+
+.banner-icon {
+    width: 637.21px;
+    color: #CCCCCC;
+    display: flex;
+    align-items: center;
+    position: relative;
+    left: 49.84px;
+}
+
+.banner-icon-facebook {
+    width: 30.32px;
+    height: 55.42px;
+    margin: 40.29px 55.67px 42.29px 0;
+}
+
+.banner-icon-twitter {
+    width: 57.32px;
+    height: 46.56px;
+    margin: 46.72px 45.6px 46.72px 0;
+}
+
+.banner-icon-linkdin {
+    width: 52.5px;
+    height: 52.5px;
+    margin: 43.75px 44.58px 43.75px 0;
+}
+
+.banner-icon-pinterest {
+    width: 58.33px;
+    height: 58.33px;
+    margin: 40.83px 44.57px 40.83px 0;
+}
+
+.banner-icon-inst {
+    height: 52.61px;
+    width: 52.52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 43.69px 44.72px 43.69px 0;
+}
+
+.banner-icon-inst-circle {
+    width: 17.52px;
+    height: 17.52px;
+    position: absolute;
+    margin: -78.82px 0 0 17.6px;
+}
+
+.banner-icon-git {
+    width: 58.18px;
+    height: 56.75px;
+    margin: 40.83px 47.5px 42.42px 0;
+}
+
+.banner-icon-wifi {
+    position: relative;
+    height: 45.38px;
+    width: 45.38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 47.95px 0 46.67px 0;
+}
+
+.banner-icon-wifi-circle {
+    width: 12.72px;
+    height: 12.72px;
+    position: absolute;
+    left: 591.83px;
+    bottom: 46.67px;
+}
+
+
+
+
+
+
+.stylish{
+    position: relative;
+    margin: 15px;
+}
+
+.stylish-backgtound {
+    width: 1510px;
+    height: 442px;
+    position: absolute;
+    opacity: 1.5;
+}
+
+.stylish-container {
+    width: 1170px; 
+}
+
+.stylish-title {
+    width: 1170px;
+    height: 150px;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 36px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute; 
+    top: 50px;
+    left: 170px;
+}
+
+.stylish-separator {
+    width: 170px;
+    border-top: 1px solid white;
+    position: absolute;  
+    top: 200px;
+    left: 670px;  
+}
+
+.stylish-text {
+    width: 1170px;
+    height: 21px;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 240px;
+    left: 170px;
+}
+
+.stylish-button {
+    width: 370px;
+    height: 58px;
+    font-family: 'Open Sans';
+    font-weight: 600;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    border: 2px solid white;
+    top: 334px;
+    left: 570px;
+}
+
+
+
+
+
+
+
+.footer {
+    width: 1510px;
+    height: 164px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    margin: 15px;
+}
+
+.footer-icon {
+    width: 544.27px;
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 485.08px;
+}
+
+.footer-info {
+    width: 1170px;
+    height: 21px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+    font-family: "Raleway";
+    font-weight: 400;
+    font-size: 18px;
+    margin: 0 0 0 170px;
+}
+
+.footer-icon-facebook {
+    width: 23.04px;
+    height: 42.12px;
+    margin: 40.54px 52.31px 33.34px 0;
+}
+
+.footer-icon-twitter {
+    width: 43.56px;
+    height: 35.38px;
+    margin: 43.91px 44.65px 36.71px 0;
+}
+
+.footer-icon-linkdin {
+    width: 39.9px;
+    height: 39.9px;
+    margin: 41.65px 43.88px 34.45px 0;
+}
+
+.footer-icon-pinterest {
+    width: 44.33px;
+    height: 44.33px;
+    margin: 39.43px 43.88px 32.23px 0;
+}
+
+.footer-icon-inst {
+    position: relative;
+    height: 39.98px;
+    width: 39.92px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 41.61px 43.99px 34.41px 0;
+}
+
+.footer-icon-inst-circle {
+    width: 13.31px;
+    height: 13.31px;
+    position: absolute;
+    margin: -60.7px 0 0 13.5px;
+}
+
+.footer-icon-git {
+    width: 44.22px;
+    height: 43.13px;
+    margin: 39.43px 46.1px 33.44px 0;
+}
+
+.footer-icon-wifi {
+    position: relative;
+    height: 34.49px;
+    width: 34.49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 44.84px 0 36.67px 0;
+}
+
+.footer-icon-wifi-circle {
+    width: 9.66px;
+    height: 9.66px;
+    position: absolute;
+    left: 994.87px;
+    bottom: 84.67px;
+}
